@@ -8,7 +8,6 @@ This project is a Python-based tool that identifies differences between two Exce
 
 ```plaintext
 ├── README.md
-├── requirements.txt
 └── src
     ├── __init__.py
     ├── main.py
